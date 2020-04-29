@@ -1,0 +1,45 @@
+div
+{
+   	padding: 10px 10px 10px 10px; 
+}
+
+.ten
+{
+	   	padding: 10px 10px 10px 10px; 
+      margin-right: 25px;
+      margin-left: 25px;
+	border-style: solid;
+	background-color: white;
+}
+
+.five
+{
+	   	padding: 10px 10px 10px 10px; 
+  margin-right: 25px;
+      margin-left: 25px;
+	border-style: solid;
+    background-color: white;
+}
+
+.click{
+
+		   	padding: 10px 10px 10px 10px; 
+  margin-right: 25px;
+      margin-left: 25px;
+	border-style: solid;
+	color: white;
+	font-weight: 500;
+	background-color: LimeGreen;
+}
+
+.row span {
+  width: 33.3%;
+  float: left;
+}
+
+img {
+  border-style: hidden;
+  padding: 5px 5px 5px 5px;
+  display: inline-block;
+  width: 100%;
+}
