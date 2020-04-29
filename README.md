@@ -1,2 +1,2 @@
 # template-aniket
-Click on index.html to run this file
+Click on index.html to run this file on localhost
